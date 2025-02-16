@@ -20,11 +20,11 @@
 ## 🚀 Instalación y Ejecución
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/pi-rym/PM4BE-Richirix.git
+    git clone https://github.com/Richirix/EcommercePM4.git
     ```
 2. Accede al directorio:
     ```bash
-    cd PM4BE-Richirix
+    cd EcommercePM4
     ```
 3. Instala las dependencias:
     ```bash
