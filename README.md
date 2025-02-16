@@ -85,7 +85,7 @@ La documentación completa de los endpoints está disponible en Swagger:
 ¡Las contribuciones son bienvenidas! Por favor, abre un **Issue** o envía un **Pull Request** si encuentras algún error o deseas agregar una nueva funcionalidad.
 
 ## 🧑‍💻 Autor
-- **Richi** - [GitHub](https://github.com/pi-rym)
+- **Ricardo E. Ruiz Calderon** - [GitHub]()
 
 ## 🛑 Licencia
 Este proyecto está bajo la licencia **MIT**.
