@@ -1,4 +1,4 @@
-# 🚀 PM4BE-Richirix
+# 🚀 EcommercePM4
 
 ## 📖 Descripción
 **PM4BE-Richirix** es un proyecto diseñado para proporcionar una experiencia optimizada y eficiente en la gestión de productos, usuarios, pedidos y autenticación.
@@ -85,7 +85,7 @@ La documentación completa de los endpoints está disponible en Swagger:
 ¡Las contribuciones son bienvenidas! Por favor, abre un **Issue** o envía un **Pull Request** si encuentras algún error o deseas agregar una nueva funcionalidad.
 
 ## 🧑‍💻 Autor
-- **Ricardo E. Ruiz Calderon** - [GitHub]()
+- **Ricardo E. Ruiz Calderon** - [GitHub](https://github.com/Richirix/EcommercePM4)
 
 ## 🛑 Licencia
 Este proyecto está bajo la licencia **MIT**.
