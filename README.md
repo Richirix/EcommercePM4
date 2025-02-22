@@ -52,6 +52,7 @@
 ## 🌐 Endpoints Principales (Swagger)
 La documentación completa de los endpoints está disponible en Swagger:
 - **URL:** `http://localhost:3000/api`
+- O accede a la versión en línea de la API desplegada: [https://ecommercepm4.onrender.com/api#/](https://ecommercepm4.onrender.com/api#/)
 
 ### 🛒 Products
 - `GET /products` - Listar todos los productos.
